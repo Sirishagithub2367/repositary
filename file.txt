@@ -1,0 +1,4 @@
+In a non-symmetric matrix, the Eigenvalues are not-repated, then we may not be possible to get linearly independent Eigenvectors. If we form a linearly independent sets of independent sets of Eigenvectors is possible through similarity transformation. 
+SYMMETRIC MATRIX 
+       If a square A is symmetric, then A = AT 
+    
